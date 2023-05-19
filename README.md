@@ -18,3 +18,5 @@ FANG Weiwei, WANG Ziyue, SONG Huili, WANG Yunpeng, DING Yi. An optimized PBFT co
 仅供相关领域的研究人员参考。不足之处欢迎大家批评指正！
 
 如有疑问，请联系论文二作：1042039220@qq.com
+
+> Please note that the open source code in this repository was mainly completed by the graduate student author during his master's degree study. Since the author did not continue to engage in scientific research work after graduation, it is difficult to continue to maintain and update these codes. We sincerely apologize that these codes are for reference only.
