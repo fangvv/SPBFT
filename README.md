@@ -1,5 +1,7 @@
 # SPBFT
 
+[![GitHub](https://img.shields.io/badge/Project_Homepage-181717?logo=github)](https://github.com/fangvv/SPBFT) — [https://github.com/fangvv/SPBFT](https://github.com/fangvv/SPBFT)
+
 本项目分享的是以下论文的核心代码（完整的版本貌似弄丢了...）：
 
 ## 程序结构
