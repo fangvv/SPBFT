@@ -91,6 +91,10 @@ mvn exec:java -Dexec.mainClass="com.pbft.HQMain"
 
 程序为控制台应用，运行后输出节点间消息交互的日志，可用于观察共识流程和统计性能指标。
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 方维维，王子岳，宋慧丽，王云鹏，丁毅. 一种面向区块链的优化PBFT共识算法[J]. 北京交通大学学报, 2019, 43(5): 58-64.
 FANG Weiwei, WANG Ziyue, SONG Huili, WANG Yunpeng, DING Yi. An optimized PBFT consensus algorithm for blockchain. Beijing Jiaotong University, 2019, 43(5): 58-64.
 
